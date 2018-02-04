@@ -8,3 +8,10 @@ const rootReducer = combineReducers({
 });
 
 export default rootReducer;
+
+
+//Reducers are combined together inside rootReducer
+//Reducers have keys such as 'books' and 'activeBook' above
+
+//App state is formed by Reducers
+//Reducers manipulate/change App State through Actions

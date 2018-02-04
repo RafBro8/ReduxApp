@@ -11,3 +11,5 @@ export default function (state = null, action) {
 
 //Redux is in charge of managing app state
 // and state is a single plain Javascript object
+
+//APP STATE IS DIFFERENT THAN SINGLE COMPONENT STATE
