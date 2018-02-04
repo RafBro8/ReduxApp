@@ -8,3 +8,6 @@ export default function (state = null, action) {
     }
     return state;
 }
+
+//Redux is in charge of managing app state
+// and state is a single plain Javascript object
